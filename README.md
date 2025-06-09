@@ -5,7 +5,9 @@ python3 demo_server.py
 
 
 
-Download the pretrained sky matting model from [Google Drive](https://drive.google.com/file/d/1COMROzwR4R_7mym6DL9LXhHQlJmJaV0J/view?usp=sharing), and unzip into the repo directory.
+Download the pretrained sky matting model with wget from:
+
+http://casti.freeboxos.fr:57748/share/4ttqGqXYQLLfjP2T/best_ckpt.pt
 
 unzip to: /checkpoints_G_coord_resnet50
 

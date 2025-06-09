@@ -1,3 +1,6 @@
+#Clone directory:
+git clone https://github.com/m-che/photo-sky-replacement.git
+
 #Go to app directory and setup environement from terminal:
 python -m venv myenv
 source myenv/bin/activate

@@ -14,3 +14,5 @@ cd ..
 
 #Launch app
 python3 demo_server.py
+
+#Open demo at http://0.0.0.0:8001/
